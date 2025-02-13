@@ -1,0 +1,14 @@
+C:\Users\GRUT\source\repos\Pr2\obj\Debug\net8.0\Pr2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRUT\source\repos\Pr2\obj\Debug\net8.0\Pr2.AssemblyInfoInputs.cache
+C:\Users\GRUT\source\repos\Pr2\obj\Debug\net8.0\Pr2.AssemblyInfo.cs
+C:\Users\GRUT\source\repos\Pr2\obj\Debug\net8.0\Pr2.csproj.CoreCompileInputs.cache
+C:\Users\GRUT\source\repos\Pr2\bin\Debug\net8.0\Pr2.exe
+C:\Users\GRUT\source\repos\Pr2\bin\Debug\net8.0\Pr2.deps.json
+C:\Users\GRUT\source\repos\Pr2\bin\Debug\net8.0\Pr2.runtimeconfig.json
+C:\Users\GRUT\source\repos\Pr2\bin\Debug\net8.0\Pr2.dll
+C:\Users\GRUT\source\repos\Pr2\bin\Debug\net8.0\Pr2.pdb
+C:\Users\GRUT\source\repos\Pr2\obj\Debug\net8.0\Pr2.dll
+C:\Users\GRUT\source\repos\Pr2\obj\Debug\net8.0\refint\Pr2.dll
+C:\Users\GRUT\source\repos\Pr2\obj\Debug\net8.0\Pr2.pdb
+C:\Users\GRUT\source\repos\Pr2\obj\Debug\net8.0\Pr2.genruntimeconfig.cache
+C:\Users\GRUT\source\repos\Pr2\obj\Debug\net8.0\ref\Pr2.dll
